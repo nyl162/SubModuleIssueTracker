@@ -8,7 +8,7 @@
       "updateMode": "prefetch",
       "urls": [
         "https://nyl162.github.io/demo/index.html",
-        "https://nyl162.github.io/demo/main.fcb4f2b7a8d0e567557d.js",
+        "https://nyl162.github.io/demo/main.3ad70cba4a1d4f44d881.js",
         "https://nyl162.github.io/demo/polyfills.7a0e6866a34e280f48e7.js",
         "https://nyl162.github.io/demo/runtime.a66f828dca56eeb90e02.js",
         "https://nyl162.github.io/demo/styles.ef8cbc5c544fd62b6df3.css"
@@ -46,8 +46,8 @@
     "https://nyl162.github.io/demo/assets/icons/icon-96x96.png": "71e2f568ed4684aab8ae887b70fa84f614f0d83a",
     "https://nyl162.github.io/demo/assets/images/Logo1.jpg": "67dd38e428c3e096961be9a0c1ae7ee86b6c1396",
     "https://nyl162.github.io/demo/assets/images/Logo2.png": "0b289229f480a1adec96c40e0adaff769197ee35",
-    "https://nyl162.github.io/demo/index.html": "371734eba3b009a21a05795d908e363938306472",
-    "https://nyl162.github.io/demo/main.fcb4f2b7a8d0e567557d.js": "b109c7cc4988d105def6046fd711e5668761fcdb",
+    "https://nyl162.github.io/demo/index.html": "d843c36ad51dfa93e35b7a721350a83664abe6af",
+    "https://nyl162.github.io/demo/main.3ad70cba4a1d4f44d881.js": "6124f6d9af1d725ca03cadaebf8ad6c119c71626",
     "https://nyl162.github.io/demo/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "https://nyl162.github.io/demo/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "https://nyl162.github.io/demo/styles.ef8cbc5c544fd62b6df3.css": "8e5f6cc6fe20f982aa11b6c8ef8663ad9bb277a4"
