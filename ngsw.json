@@ -9,7 +9,7 @@
       "urls": [
         "https://nyl162.github.io/demo/favicon.ico",
         "https://nyl162.github.io/demo/index.html",
-        "https://nyl162.github.io/demo/main.ac7f14d080f8c26128cb.js",
+        "https://nyl162.github.io/demo/main.a8011bad30ccbc89ea90.js",
         "https://nyl162.github.io/demo/polyfills.7a0e6866a34e280f48e7.js",
         "https://nyl162.github.io/demo/runtime.a66f828dca56eeb90e02.js",
         "https://nyl162.github.io/demo/styles.ef8cbc5c544fd62b6df3.css"
@@ -28,24 +28,28 @@
         "https://nyl162.github.io/demo/assets/icons/icon-384x384.png",
         "https://nyl162.github.io/demo/assets/icons/icon-512x512.png",
         "https://nyl162.github.io/demo/assets/icons/icon-72x72.png",
-        "https://nyl162.github.io/demo/assets/icons/icon-96x96.png"
+        "https://nyl162.github.io/demo/assets/icons/icon-96x96.png",
+        "https://nyl162.github.io/demo/assets/images/Logo1.jpg",
+        "https://nyl162.github.io/demo/assets/images/Logo2.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://nyl162.github.io/demo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://nyl162.github.io/demo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://nyl162.github.io/demo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://nyl162.github.io/demo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://nyl162.github.io/demo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://nyl162.github.io/demo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://nyl162.github.io/demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://nyl162.github.io/demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://nyl162.github.io/demo/assets/icons/icon-128x128.png": "dd27baf07ef484f4e4ef80ccd6c3102c6f75877d",
+    "https://nyl162.github.io/demo/assets/icons/icon-144x144.png": "ae0587212ffcb1ec7e3b0bbdbb548611bddb1538",
+    "https://nyl162.github.io/demo/assets/icons/icon-152x152.png": "3148ab20469ba5823ec8c9b25294659cbf4e0e9c",
+    "https://nyl162.github.io/demo/assets/icons/icon-192x192.png": "b583070de7bcac1d043291b84eaa5888fcdbc018",
+    "https://nyl162.github.io/demo/assets/icons/icon-384x384.png": "1684497ab5cf7ca9222bb15696a911c6969c0e78",
+    "https://nyl162.github.io/demo/assets/icons/icon-512x512.png": "6380bd1687c665783457b422a6475467b146dca1",
+    "https://nyl162.github.io/demo/assets/icons/icon-72x72.png": "8ffc8241fd518ee3fcc21dfe450f2d4399c6a0e6",
+    "https://nyl162.github.io/demo/assets/icons/icon-96x96.png": "71e2f568ed4684aab8ae887b70fa84f614f0d83a",
+    "https://nyl162.github.io/demo/assets/images/Logo1.jpg": "67dd38e428c3e096961be9a0c1ae7ee86b6c1396",
+    "https://nyl162.github.io/demo/assets/images/Logo2.png": "0b289229f480a1adec96c40e0adaff769197ee35",
     "https://nyl162.github.io/demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://nyl162.github.io/demo/index.html": "3fb915ecf162e954b72a88c872f27348efa5bed6",
-    "https://nyl162.github.io/demo/main.ac7f14d080f8c26128cb.js": "ae8c16f285161bc7ec966a9fde83752551615358",
+    "https://nyl162.github.io/demo/index.html": "be6412d0c8407a43c475cf04a1d922b95a739acb",
+    "https://nyl162.github.io/demo/main.a8011bad30ccbc89ea90.js": "2f08766ff9acb8b30ac1ef6c684d009d8afa30a8",
     "https://nyl162.github.io/demo/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "https://nyl162.github.io/demo/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "https://nyl162.github.io/demo/styles.ef8cbc5c544fd62b6df3.css": "8e5f6cc6fe20f982aa11b6c8ef8663ad9bb277a4"
