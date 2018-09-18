@@ -9,10 +9,10 @@
       "urls": [
         "https://nyl162.github.io/demo/favicon.ico",
         "https://nyl162.github.io/demo/index.html",
-        "https://nyl162.github.io/demo/main.4b5d991a23717f20adf3.js",
+        "https://nyl162.github.io/demo/main.ac7f14d080f8c26128cb.js",
         "https://nyl162.github.io/demo/polyfills.7a0e6866a34e280f48e7.js",
         "https://nyl162.github.io/demo/runtime.a66f828dca56eeb90e02.js",
-        "https://nyl162.github.io/demo/styles.7ec730d8b886da95f686.css"
+        "https://nyl162.github.io/demo/styles.ef8cbc5c544fd62b6df3.css"
       ],
       "patterns": []
     },
@@ -44,11 +44,11 @@
     "https://nyl162.github.io/demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://nyl162.github.io/demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://nyl162.github.io/demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://nyl162.github.io/demo/index.html": "cfcf9d9b85e33accea842af6dae704e207070464",
-    "https://nyl162.github.io/demo/main.4b5d991a23717f20adf3.js": "0ae0bdd7b2dfc50943d4fe122fef283ce8a21fbb",
+    "https://nyl162.github.io/demo/index.html": "3fb915ecf162e954b72a88c872f27348efa5bed6",
+    "https://nyl162.github.io/demo/main.ac7f14d080f8c26128cb.js": "ae8c16f285161bc7ec966a9fde83752551615358",
     "https://nyl162.github.io/demo/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "https://nyl162.github.io/demo/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "https://nyl162.github.io/demo/styles.7ec730d8b886da95f686.css": "b1b7a5ce07fe45024f51902983d308ca9b5b07ce"
+    "https://nyl162.github.io/demo/styles.ef8cbc5c544fd62b6df3.css": "8e5f6cc6fe20f982aa11b6c8ef8663ad9bb277a4"
   },
   "navigationUrls": [
     {
