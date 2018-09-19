@@ -1,9 +1,9 @@
 {
-  "name": "SubModuleIssueTracker",
-  "short_name": "SubModuleIssueTracker",
-  "theme_color": "#1976d2",
+  "name": "Terasaki Issue Tracker",
+  "short_name": "Terasaki Tracker",
+  "theme_color": "#0000ff",
   "background_color": "#fafafa",
-  "display": "standalone",
+  "display": "fullscreen",
   "scope": "/",
   "start_url": "/demo",
   "icons": [
